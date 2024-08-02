@@ -14,9 +14,9 @@
 
 ##  <br /> <a name="introduction">✨ Introduction</a>
 
-**[EN]** A simple to-do list built from scratch using React. This project breaks down key React concepts and practices, offering a hands-on approach to understanding the fundamentals of React development. 
+**[EN]** A simple to-do list built from scratch using React, incorporating local storage to persist data. This project breaks down key React concepts and practices, offering a hands-on approach to understanding the fundamentals of React development. 
 
-**[FR]** Une simple liste de tâches construite de zéro avec React. Ce projet décompose les concepts clés de React et les pratiques importantes, offrant une approche pratique pour comprendre les fondamentaux du développement React. 
+**[FR]** Une simple liste de tâches construite de zéro avec React, utilisant le local storage pour conserver les données. Ce projet décompose les concepts clés de React et les pratiques importantes, offrant une approche pratique pour comprendre les fondamentaux du développement React. 
 
 ##  <br /> <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -24,7 +24,7 @@
 
 - **Vite** is a modern front-end build tool that offers a fast and efficient development environment. It leverages ES modules for quick build times and features hot module replacement (HMR) for instant updates, making it ideal for frameworks like React, Vue, and Svelte. Vite's minimal configuration helps streamline development workflows.
 
-
+- **Local Storage** is a web storage feature that allows web applications to store data persistently in the user's browser. It provides a simple key-value store with a straightforward API, enabling developers to save data across browser sessions without expiration. Local Storage is ideal for storing user preferences, session data, and other non-sensitive information. Its synchronous API makes it easy to use, though it is limited to storing string data only and has a size limit of around 5MB per domain.
 
 ## <br /> <a name="quick-start">🚀 Quick Start</a>
 
