@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://todolist-react-fv.netlify.app" target="_blank">
-      <img src="design/preview.webp" style="width: 60%;" alt="Project Banner">
+      <img src="design/preview.png" style="width: 60%;" alt="Project Banner">
     </a>
   <h3 align="center">Todo List - React</h3>
 </div>
@@ -20,11 +20,11 @@
 
 ##  <br /> <a name="tech-stack">⚙️ Tech Stack</a>
 
-- **React** is a popular JavaScript library for building user interfaces, particularly single-page applications where data changes over time. React's component-based architecture allows developers to create reusable UI components, making development more efficient and the codebase easier to maintain. 
+- [**React**](https://react.dev/reference/react) is a popular JavaScript library for building user interfaces, particularly single-page applications where data changes over time. React's component-based architecture allows developers to create reusable UI components, making development more efficient and the codebase easier to maintain. 
 
-- **Vite** is a modern front-end build tool that offers a fast and efficient development environment. It leverages ES modules for quick build times and features hot module replacement (HMR) for instant updates, making it ideal for frameworks like React, Vue, and Svelte. Vite's minimal configuration helps streamline development workflows.
+- [**Vite**](https://vitejs.dev/guide/) is a modern front-end build tool that offers a fast and efficient development environment. It leverages ES modules for quick build times and features hot module replacement (HMR) for instant updates, making it ideal for frameworks like React, Vue, and Svelte. Vite's minimal configuration helps streamline development workflows.
 
-- **Local Storage** is a web storage feature that allows web applications to store data persistently in the user's browser. It provides a simple key-value store with a straightforward API, enabling developers to save data across browser sessions without expiration. Local Storage is ideal for storing user preferences, session data, and other non-sensitive information. Its synchronous API makes it easy to use, though it is limited to storing string data only and has a size limit of around 5MB per domain.
+- [**Local Storage**](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage) is a web storage feature that allows web applications to store data persistently in the user's browser. It provides a simple key-value store with a straightforward API, enabling developers to save data across browser sessions without expiration. Local Storage is ideal for storing user preferences, session data, and other non-sensitive information. Its synchronous API makes it easy to use, though it is limited to storing string data only and has a size limit of around 5MB per domain.
 
 ## <br /> <a name="quick-start">🚀 Quick Start</a>
 
